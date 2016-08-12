@@ -14,7 +14,7 @@
             opacity: 0;
         }
     }
-    @media all and (max-width: 200px) {
+    @media all and (max-width: 250px) {
         #outer, #texter {
             opacity: 0;
         }
