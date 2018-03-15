@@ -1,4 +1,5 @@
-# hello-world
-Join github today
+# change my terminal theme with oh my zsh
 
-Learning github and gitbook, and try to make myself happy.
+yeah~
+
+
